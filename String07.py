@@ -6,6 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 0
+    return ''
 
 print(main())
