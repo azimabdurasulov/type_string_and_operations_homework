@@ -7,4 +7,7 @@ def main(s,n):
     Returns:
         str: return answer.
     """
-    return 
+
+    return s * n
+
+print(main("askl", 3))
