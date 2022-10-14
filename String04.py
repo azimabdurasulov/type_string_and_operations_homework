@@ -7,4 +7,6 @@ def main():
         str: return answer.
     """
     s = "s"
-    return 
+    return '"{}"'.format(s)
+
+print(main())
